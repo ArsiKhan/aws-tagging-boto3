@@ -1,4 +1,4 @@
 # python
 #it is an amazing project
-#and also very usefull
+and also very usefull
 
